@@ -1,16 +1,19 @@
-## Hi there 👋
+## Automation engineering.
 
-<!--
-**AndNowWhat/AndNowWhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eight years of professional engineering experience across DAST web-application security, FIX 4.4 trading systems, and freelance Java/Kotlin work. Independent portfolio centered on Windows internals, Unity IL2CPP introspection, and Ghidra-based static analysis. Self-taught since the early 2000s.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+Java/Kotlin engineering for [BotWithUs](https://botwithus.net) — multi-threaded automation frameworks with state-machine architectures, crash recovery, and multi-hour unattended stability.
+
+---
+
+### Tools I reach for
+
+**Reverse engineering** — Ghidra (with custom scripts), ReClass.NET, IL2CPP runtime analysis, MinHook, hudhook
+**Languages** — Java, Kotlin, Rust, Python, C#, PowerShell, Bash
+**Stacks I've shipped against** — Unity IL2CPP, Java client extension (RS3), Windows internals (DLL injection, import forwarding, DirectX hooking), WPF, web DAST scanners
+
+---
